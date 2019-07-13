@@ -1,5 +1,5 @@
 {
-  "name": "tiff-js",
+  "name": "@codenstein/tiff-js",
   "version": "0.0.1",
   "description": "A JavaScript interface for libtiff.",
   "main": "lib/tiffh.js",
